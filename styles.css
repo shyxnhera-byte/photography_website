@@ -14,7 +14,7 @@ nav {
 .my_logo {
 width: 230px;
 height: 150px;
-margin:0%;
+margin-left: 20px;
 padding-bottom: 0;
 
 
@@ -37,7 +37,7 @@ padding: 40px
 }
 #biography {
     display: flex;
-    gap: 80px;
+    gap: 40px;
    justify-content: center;
    line-height: 50px;
    font-family: Sofia;
@@ -56,4 +56,15 @@ padding: 40px
     text-decoration: underline;
     text-decoration-color: #061225;
     text-decoration-thickness: 3px;
+}
+.intro {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 24px;
+}
+.marine {
+    background: linear-gradient(#061225 , #6FD9FF);
+    margin: 0;
+    padding: 20px;
+    color: #B8F2FF;
 }
