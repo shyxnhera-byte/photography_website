@@ -39,12 +39,13 @@ padding: 40px
    font-family: Sofia;
    font-size: 24px;
    font-weight: bolder;
-   background-color: #D6F5FF;  
+   background-color: #FFFFFF; 
+   margin-left: 10px; 
 }
 #ME {
     text-align: center;
     font-family: Sofia;
-    background: #D6F5FF;
+    background: #FFFFFF;
     margin: 0;
 }
 .underline {
@@ -59,9 +60,12 @@ padding: 40px
 }
 .marine {
     background: linear-gradient(#061225 , #6FD9FF);
-    margin: 0;
+    margin: 10px auto;
     padding: 20px;
     color: #B8F2FF;
+    width: 500px;
+    display: block;
+    
 }
 .photos {
     width: 350px;
@@ -86,6 +90,7 @@ text-align: center;
 }
 #Trieste_photo {
     width: 500px;
+    border-radius: 20px;
 }
 #Trieste_package {
     display: flex;
@@ -96,6 +101,10 @@ text-align: center;
     font-weight: bolder;
     color: #061225;
     
+}
+#background {
+   background-color: #FFFFFF; 
+   margin-bottom: 20px;
 }
     
 
