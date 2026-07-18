@@ -82,6 +82,20 @@ padding: 40px
 }
 h4 {
 font-size: 24px;
+text-align: center;
+}
+#Trieste_photo {
+    width: 500px;
+}
+#Trieste_package {
+    display: flex;
+    width:800px ;
+    font-size: 20px;
+    gap: 50px;
+    margin-left: 400px;
+    font-weight: bolder;
+    color: #061225;
+    
 }
     
 
