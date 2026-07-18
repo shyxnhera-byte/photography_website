@@ -8,16 +8,13 @@ nav {
     justify-content:space-between ;
     background: linear-gradient(#061225 , #6FD9FF);
     height: 150px;
-    padding: 0;
-    
+    padding: 0;  
 }
 .my_logo {
 width: 230px;
 height: 150px;
 margin-left: 20px;
 padding-bottom: 0;
-
-
 }
 .nav_items {
 list-style-type: none;
@@ -32,8 +29,7 @@ padding: 40px
 }
 #me {
     width: 250px;
-    border-radius: 20px;
-    
+    border-radius: 20px;   
 }
 #biography {
     display: flex;
@@ -43,8 +39,7 @@ padding: 40px
    font-family: Sofia;
    font-size: 24px;
    font-weight: bolder;
-   background-color: #D6F5FF;
-   
+   background-color: #D6F5FF;  
 }
 #ME {
     text-align: center;
@@ -68,7 +63,17 @@ padding: 40px
     padding: 20px;
     color: #B8F2FF;
 }
-
-    
-    
+.photos {
+    width: 350px;
+    height: 350px;
+}   
+.row {
+    display: flex;
 }
+.package {
+    text-align: center;
+    width: 350px;
+}
+    
+
+
