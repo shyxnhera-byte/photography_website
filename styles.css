@@ -107,10 +107,31 @@ text-align: center;
    background-color: #FFFFFF; 
    margin-bottom: 20px;
 }
-#form {
- width: 250px;
- margin-bottom: 20px;  
- margin-top: 50px; 
-}    
+#contact {
+ width: 250px; 
+ font-size: 24px;
+ display: block;
+ margin: 50px auto;
+ border:3px solid #061225;
+ padding: 20px ;
+ border-radius: 20px;
+ line-height: 50px;
+ background-color: #B8F2FF;
+}   
+ input {
+    height: 30px;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    border-radius:10px;
+ }
+ #btn {
+padding: 10px;
+font-size: large;
+border-radius: 10px;
+background-color: #043380;
+color: #d9f5fc;
+ }
 
 
