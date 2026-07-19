@@ -5,6 +5,9 @@ This is a simple , responsive website that showcases the beauty and mystery of m
 ## Author name
 Shayne Hera
 
+## Contact info
+Incase of any need of communication, contact me via email mhandohera@gmail.com
+
 ## Description
 This project was created to showcase marine photography in a user-friendly website. It demonstrates use of html and css to build a responsive layout with attractive styling.
 
@@ -20,5 +23,5 @@ Interactive hover effects
 HTML
 CSS
 
-## Licence
-MIT
+## License
+This project is licensed under the MIT license. See the 'LICENSE' file for details.
