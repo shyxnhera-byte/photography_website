@@ -9,6 +9,22 @@ nav {
     height: 150px;
     padding: 0;  
 }
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 10px;
+    transition: all 0.3s ease;
+}
+nav a:hover {
+    color: #043380;
+    background-color: #FFFFFF;
+    text-decoration: underline;
+    border-radius: 20px;
+}
+
+
+
+
 .my_logo {
 width: 230px;
 height: 150px;
@@ -140,6 +156,18 @@ color: #d9f5fc;
     color: #6FD9FF;
 }
 .footer_links {
-    margin-top: 50px;
-    
+    margin-top: 80px;
+}
+.footer_links a {
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.footer_links a:hover {
+color: #061225;
+background-color: #FFFFFF;
+transition: all 0.3s ease;
+padding: 5px;
+border-radius: 5px;
+text-decoration: none;
 }
