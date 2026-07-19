@@ -107,6 +107,10 @@ text-align: center;
    background-color: #FFFFFF; 
    margin-bottom: 20px;
 }
-    
+#form {
+ width: 250px;
+ margin-bottom: 20px;  
+ margin-top: 50px; 
+}    
 
 
