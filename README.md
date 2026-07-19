@@ -20,8 +20,8 @@ This project was created to showcase marine photography in a user-friendly websi
 - Interactive hover effects
 
 ## Built with
-HTML
-CSS
+- HTML
+- CSS
 
 ## License
 This project is licensed under the MIT license. See the 'LICENSE' file for details.
